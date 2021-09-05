@@ -13,4 +13,3 @@ Browse the list of products: <br>
 
 Browse the list products that are purchased by the user(s) —> Product Purchased History <br>
 - View the list of products that are purchased by the user(s) —> @Get <br>
-User can change its information, delete its product purchase, and update its product purchase
