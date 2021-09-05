@@ -5,6 +5,8 @@ Admin will be able to:
 2. get all the users
 3. get all the products purchased by the user(s)
 
+This project will be using Postman tool.
+
 Browse the list of users: <br>
 - View users which are registered on the website —> @Get <br>
 
