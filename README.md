@@ -1,4 +1,4 @@
-# phase3_ecomerce_spportyshoes
+# phase3_ecommerce_spportyshoes
 Phase 3: Ecommerce_SportyShoes<br>
 Admin will be able to:
 1. get all the products
